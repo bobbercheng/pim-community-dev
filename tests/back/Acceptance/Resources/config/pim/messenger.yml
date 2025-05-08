@@ -1,5 +1,0 @@
-services:
-    AkeneoTest\Acceptance\Messenger\InMemorySpyTransportFactory:
-        tags:
-            - { name: messenger.transport_factory }
-            - { name: kernel.reset, method: reset }
