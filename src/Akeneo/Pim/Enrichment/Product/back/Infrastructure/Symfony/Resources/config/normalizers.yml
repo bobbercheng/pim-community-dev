@@ -1,4 +1,0 @@
-services:
-    Akeneo\Pim\Enrichment\Product\Infrastructure\Normalizer\ProductsWereCreatedOrUpdatedNormalizer:
-        tags:
-            - { name: akeneo_messenger.message.normalizer }

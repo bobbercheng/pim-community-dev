@@ -1,7 +1,0 @@
-Akeneo\Pim\Enrichment\Product\API\Query\GetProductUuidsQuery:
-    properties:
-        searchFilters:
-            - Type: array
-            - Akeneo\Pim\Enrichment\Product\Infrastructure\Validation\PQB\SearchFilters: ~
-        userId:
-            - Akeneo\Pim\Enrichment\Product\Infrastructure\Validation\UserShouldExist: ~

@@ -1,4 +1,0 @@
-Akeneo\Pim\Enrichment\Component\Product\Command\ProductModel\RemoveProductModelsCommand:
-    properties:
-        removeProductModelCommands:
-            - Valid: ~

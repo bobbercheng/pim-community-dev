@@ -1,8 +1,0 @@
-pim_dashboard:
-  title: Painel
-  version: Versão
-  widget:
-    completeness:
-      title: '% de Dados completos nos Canais e Línguas'
-    last_operations:
-      title: Últimas operações

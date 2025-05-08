@@ -1,6 +1,0 @@
-services:
-    feature_flags:
-        public: true
-        class: 'Akeneo\Platform\Bundle\FeatureFlagBundle\Internal\Test\InMemoryFeatureFlags'
-        arguments:
-            - '@akeneo.feature_flag.service.registry'
